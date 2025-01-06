@@ -6,7 +6,7 @@ This GitHub repository provides the supplementary data referenced in the publica
 
 All files are publicly available and can be used for further research or other applications. However, if you utilize these resources in your work, we kindly request that you cite our original publication.
 
-**Pearl Sac Gene Expression Profiles Associated With Pearl Attributes in the Silver-Lip Pearl Oyster,** ***Pinctada maxima.*** Carmel McDougall, Felipe Aguilera, Ali Shokoohmand, Patrick Moase, Bernard M. Degnan. *Frontiers in Genetics* **11**:597459 (2021). https://doi.org/10.3389/fgene.2020.597459
+**Physiological and transcriptomic effects of formulated diets including the prebiotics inulin, β-glucan, and chitosan on juveniles of *Totoaba macdonaldi.*** Oscar E. Juárez, Clara E. Galindo-Sánchez, Fabiola Lafarga-De la Cruz, Sara Enciso, Edgar A. López-Landavery, Camilo Muñoz, Felipe Aguilera, Juan Pablo Lazo. *Aquaculture International* **32**:61-85 (2024). https://doi.org/10.1007/s10499-023-01144-1
 
 **Abstract**
 
