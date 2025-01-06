@@ -26,7 +26,7 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 [01-Totoaba-transcriptome-BUSCO.docx](https://github.com/faguil/Totoaba_transcriptomics/blob/main/01-Totoaba-transcriptome-BUSCO.docx) contains the BUSCO results of the quality assessment of the Totoaba reference transcriptome.
 
-[02-Phylogenetic-tree-FoxJ1.pdf](https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/02-Phylogenetic-tree-FoxJ1.pdf) contains the Maximum Likelihood phylogenetic analysis of the *Pinctada maxima* FoxJ1 protein.
+[02-Trinotate-report-DEGs.docx](https://github.com/faguil/Totoaba_transcriptomics/blob/main/02-Trinotate-report-DEGs.docx) contains the Trinotate results of the differentially expressed genes used to perform enriched Gene Ontology heatmaps.
 
 [03-Phylogenetic-tree-ETS4_PDEF.pdf](https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/03-Phylogenetic-tree-ETS4_PDEF.pdf) contains the Maximum Likelihood phylogenetic analysis of the *Pinctada maxima* ETS4/PDEF protein.
 
