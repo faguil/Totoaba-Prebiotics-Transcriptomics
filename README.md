@@ -20,7 +20,7 @@ In this study, we evaluated the effects of three prebiotics (inulin, β-glucan, 
 
 ## How to download code files
 
-The code in this repository is stored in the [00-Code folder]( and can be downloaded as outlined below. The ***protein_motif_searching.pl*** script, written in Perl, scans one or more protein motif patterns in FASTA files. For detailed instructions on how to use the script, please refer to the README file in the 00-Code folder. While we believe the script and accompanying README make it largely self-explanatory, do not hesitate to reach out if you have any questions or concerns.
+The code in this repository is stored in the [00-Code folder](https://github.com/faguil/Totoaba-Prebiotics-Transcriptomics/tree/main/00-Code) and can be downloaded as outlined below. Scripts are built in R, which can be visualized in your IDR of choice (e.g., RStudio).
 
 ## How to download data files
 
@@ -38,11 +38,3 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 - **Figure 1.** Evaluation of independent sequence similarity search results across different protein databases. 
 - **Figure 2.** Evaluation of GO and KEGG assignment.
-
-[05-Totoaba-DESeq2.R](https://github.com/faguil/Totoaba_transcriptomics/blob/main/05-Totoaba.DESeq2.R) contains an R script to conduct the identification of differentially expressed genes (DEGs) using DESeq2.
-
-[06-Totoaba-edgeR.R](https://github.com/faguil/Totoaba_transcriptomics/blob/main/06-Totoaba.edgeR.R) contains an R script to conduct the identification of differentially expressed genes (DEGs) using edgeR.
-
-[07-Totoaba-fake-annotation-transcriptome.sh](https://github.com/faguil/Totoaba_transcriptomics/blob/main/07-Totoaba.fake-annotation-transcriptome.sh) contains a Bash script to make a fake annotation file of the de novo reference transcriptome of *Totoaba macdonaldi*.
-
-[08-Totoaba-topGO.R](https://github.com/faguil/Totoaba_transcriptomics/blob/main/08-Totoaba.topGO.R) contains an R script to conduct the gene ontology (GO) enrichment of DEGs using topGO.
