@@ -35,9 +35,11 @@ The files in this repository are ready for use. Simply click on the file, and yo
 - **Figure 1.** Evaluation of independent sequence similarity search results across different protein databases. 
 - **Figure 2.** Evaluation of GO and KEGG assignment.
 
-[05-Totoaba-DESeq2.R]
+[05-Totoaba-DESeq2.R](https://github.com/faguil/Totoaba_transcriptomics/blob/main/05-Totoaba.DESeq2.R) contains a R script to conduct the identification of differentially expressed genes (DEGs) using DESeq2.
+
+[06-Totoaba-edgeR.R](
 
 * Bash script to make a fake annotation file of the de novo reference transcriptome of Totoaba macdonaldi (filename = Totoaba.fake-annotation-transcriptome.sh)
-* R script to conduct the identification of differentially expressed genes (DEGs) using DESeq2 (filename = Totoaba.DESeq2.R)
+
 * R script to conduct the identification of differentially expressed genes (DEGs) using edgeR (filename = Totoaba.edgeR.R
 * R script to conduct the gene ontology (GO) enrichment of DEGs using topGO (filename = topGO.R)
