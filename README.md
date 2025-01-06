@@ -30,22 +30,12 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 [03-Gene-ontology-enrichment-DEGs.docx](https://github.com/faguil/Totoaba_transcriptomics/blob/main/03-Gene-ontology-enrichment-DEGs.docx) contains the complete Gene Ontology (GO) enrichment report for differentially expressed genes.
 
-[04-Supplementary-Tables.xlsx](https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/04-Supplementary-Tables.xlsx) contains supplementary tables used in this study.
+[04-Supplementary-Material.docx](https://github.com/faguil/Totoaba_transcriptomics/blob/main/04-Supplementary-Material.docx) contains supplementary material used in this study.
 
-- **Table S1.** Transcripts differentially expressed between sacs producing high vs low lustre pearls. 
-- **Table S2.** Transcripts differentially expressed between sacs producing pearls with 'calcification' and those without.
-- **Table S3.** Gene Ontology 'Biological Process' enrichments within calcification-associated differentially expressed transcripts.
-- **Table S4.** Transcripts differentially expressed between sacs producing pearls with 'underskin' and those without.
-- **Table S5.** Transcripts differentially expressed between sacs producing pearls with different weights.
+- **Figure 1.** Evaluation of independent sequence similarity search results across different protein databases. 
+- **Figure 2.** Evaluation of GO and KEGG assignment.
 
-
-
-# Totoaba_transcriptomics
-Identification of differentially expressed genes in Totoaba juveniles exposed to different prebiotics
-
-Public repository for bioinformatics analysis conducted in the evaluation of different prebiotics (i.e., chitosan, inulin, beta-glucan) on juveniles of Totoaba macdonaldi
-
-This repository contains:
+[05-Totoaba-DESeq2.R]
 
 * Bash script to make a fake annotation file of the de novo reference transcriptome of Totoaba macdonaldi (filename = Totoaba.fake-annotation-transcriptome.sh)
 * R script to conduct the identification of differentially expressed genes (DEGs) using DESeq2 (filename = Totoaba.DESeq2.R)
