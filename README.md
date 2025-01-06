@@ -28,7 +28,7 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 [02-Trinotate-report-DEGs.docx](https://github.com/faguil/Totoaba_transcriptomics/blob/main/02-Trinotate-report-DEGs.docx) contains the Trinotate results of the differentially expressed genes used to perform enriched Gene Ontology heatmaps.
 
-[03-Phylogenetic-tree-ETS4_PDEF.pdf](https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/03-Phylogenetic-tree-ETS4_PDEF.pdf) contains the Maximum Likelihood phylogenetic analysis of the *Pinctada maxima* ETS4/PDEF protein.
+[03-Gene-ontology-enrichment-DEGs.docx](https://github.com/faguil/Totoaba_transcriptomics/blob/main/03-Gene-ontology-enrichment-DEGs.docx) contains the complete Gene Ontology (GO) enrichment report for differentially expressed genes.
 
 [04-Supplementary-Tables.xlsx](https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/04-Supplementary-Tables.xlsx) contains supplementary tables used in this study.
 
