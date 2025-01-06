@@ -10,13 +10,13 @@ All files are publicly available and can be used for further research or other a
 
 **Abstract**
 
-Pearls are highly prized biomineralized gemstones produced by molluscs. The appearance and mineralogy of cultured pearls can vary markedly, greatly affecting their commercial value. To begin to understand the role of pearl sacs—organs that form in host oysters from explanted mantle tissues that surround and synthesize pearls—we undertook transcriptomic analyses to identify genes that are differentially expressed in sacs producing pearls with different surface and structural characteristics. Our results indicate that gene expression profiles correlate with different pearl defects, suggesting that gene regulation in the pearl sac contributes to pearl appearance and quality. For instance, pearl sacs that produced pearls with surface non-lustrous calcification significantly down-regulate genes associated with cilia and microtubule function compared to pearl sacs giving rise to lustrous pearls. These results suggest that gene expression profiling can advance our understanding of processes that control biomineralization, which may be of direct value to the pearl industry, particularly in relation to defects that result in low value pearls.
+In this study, we evaluated the effects of three prebiotics (inulin, β-glucan, and chitosan) on the physiological performance of Totoaba macdonaldi juveniles under culture conditions. The respiratory burst and the leucocyte content were measured in the blood to assess innate immune responses. The intestinal digestive capacity was evaluated by analyzing trypsin, amylase, and lipase activities, whereas the effects of such prebiotics at the transcriptomic level were assessed by implementing the RNA-Seq of liver tissue. After 60 days, fish fed with 0.5% chitosan diets showed the highest respiratory burst, the lowest lipase activity, and the highest number of differentially expressed genes (DEGs), where biological processes related to proteolysis, digestion, and lipid hydroxylation were the most affected. In addition, fish from the chitosan diet showed the highest expression of immunoglobulin genes. In contrast, fish fed with the 1% inulin diet presented the highest diet digestibility and trypsin and lipase activities. These physiological effects align with the highest expression of trypsin-like and chymotrypsin-like genes in the liver of fish from this diet. On the other hand, fish fed the 0.1% β-glucan diets showed the lowest amount of DEGs compared to the control group, most of which were associated with immune response, with an up-regulation of genes related to the complement system and a downregulation of immunoglobulin genes. Based on our results, we propose the inclusion of 1% dietary inulin to improve the digestibility of experimental diets and the addition of 0.5% chitosan to stimulate the immune system of T. macdonaldi juveniles.
 
 ## Author contact
 
-- [Carmel McDougall](mailto:c.mcdougall@uq.edu.au) (senior author - PostDoc)
-- [Felipe Aguilera](mailto:f.aguilera@uq.edu.au) (first author - PhD student)
-- [Bernie Degnan](b.degnan@uq.edu.au) (corresponding author)
+- [Fabiola Lafarga-de la Cruz](mailto:flafarga@cicese.mx) (corresponding author)
+- [Felipe Aguilera](mailto:faguilera@udec.cl) (Assistant professor)
+- [Juan Pablo Lazo](mailto:jplazo@cicese.mx) (corresponding author)
 
 ## How to download data files
 
