@@ -39,9 +39,8 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 [06-Totoaba-edgeR.R](https://github.com/faguil/Totoaba_transcriptomics/blob/main/06-Totoaba.edgeR.R) contains an R script to conduct the identification of differentially expressed genes (DEGs) using edgeR.
 
-[07-Totoaba-fake-annotation-transcriptome.sh](
+[07-Totoaba-fake-annotation-transcriptome.sh](https://github.com/faguil/Totoaba_transcriptomics/blob/main/07-Totoaba.fake-annotation-transcriptome.sh) contains a Bash script to make a fake annotation file of the de novo reference transcriptome of *Totoaba macdonaldi*.
 
-* Bash script to make a fake annotation file of the de novo reference transcriptome of Totoaba macdonaldi (filename = Totoaba.fake-annotation-transcriptome.sh)
-
+[08-Totoaba-topGO.R](
 
 * R script to conduct the gene ontology (GO) enrichment of DEGs using topGO (filename = topGO.R)
